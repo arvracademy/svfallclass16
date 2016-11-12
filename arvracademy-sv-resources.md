@@ -38,33 +38,33 @@ Mudbox -  good for sculptors for high end movies example: Godzilla.  You can the
 
 
 **Beginner Programming and programming CG**
-Introduction to Computer Science - Harvard : CS 50x - EdX (recommended by Erin to learn C and basic programming)
+Introduction to Computer Science - Harvard : CS 50x - EdX (recommended by Erin to learn C and basic programming) [Link] (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
 **Introduction to Computer Graphics - Stanford**
-
+[Link] (https://graphics.stanford.edu/)
 (recommended by Erin, ask for notes)
-
-
-//Erin and Hallie will additional ones that Hallie approves of
-Advanced/Intermediate
 
 
 **MOOCs**
 
-Udemy
+Udemy [Link] (https://www.udemy.com/courses/search/?ref=home&src=ukw&q=virtual%20reality&lang=en)
 
-Udacity
+Udacity - VR Developer Nanodegree [Link] (https://www.udacity.com/course/vr-developer-nanodegree--nd017)
 
-Lynda
+Lynda [Link] (https://www.lynda.com/search?q=virtual+reality)
 
 
 **Wikis**
-VR Devs Wiki
-Oculus reddit
-GearVR reddit
-VR reddit
-Augmented Reality reddit
+VR Devs Wiki [Link] (http://vrdevs.org/Main_Page)
+
+Oculus reddit [Link] (https://www.reddit.com/r/oculus/)
+
+GearVR reddit [Link] (https://www.reddit.com/r/GearVR/)
+
+VR reddit [Link] (https://www.reddit.com/r/virtualreality/)
+
+Augmented Reality reddit [Link] (https://www.reddit.com/r/augmentedreality/)
 
 
 **Community**
